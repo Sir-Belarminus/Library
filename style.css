@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+body{
+    font-size: 100%;
+    background: #5a2e06;
+
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+    
+}
+
+.cabecalho-menu-item-2 {
+    display: flex;
+    gap: 40px;
+}
+
+.item-1 {
+    font-family: 'Dancing Script', cursive;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 80px;
+    text-decoration-line: underline;
+
+}
+.item-2 {
+    font-family: 'Dancing Script', cursive;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 80px;
+    text-decoration-line: underline;
+}
+
+
