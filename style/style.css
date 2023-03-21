@@ -63,8 +63,12 @@ body{
     font-weight: 400;
     font-size: 72px;
     line-height: 80px;
+    color: #BB6B32;
     background-clip: text;
-    background-color: linear-gradient(270.32deg, rgba(123, 81, 18, 0) -105.37%, rgba(134, 88, 18, 0.832406) -105.35%, #BB6B32 -105.33%, #BB6B32 -69.73%);
-    text-emphasis-color: transparent;
+    text-fill-color: transparent;
     background-blend-mode: lighten;
+    mix-blend-mode: normal;
+    border: 2px solid #3E372C;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
 }
